@@ -20,15 +20,15 @@
   },
   "devDependencies": {
     "@types/inquirer": "^7.3.1",
-    "@types/jest": "^26.0.10",
+    "@types/jest": "^26.0.12",
     "@types/jest-expect-message": "^1.0.2",
-    "@types/node": "^10.17.28",
+    "@types/node": "^14.6.2",
     "@types/yargs": "^15.0.5",
-    "eslint": "^7.7.0",
+    "eslint": "^7.8.1",
     "jest": "^26.4.2",
     "jest-expect-message": "^1.0.2",
-    "prettier": "^2.1.0",
-    "typescript": "~3.9.7"
+    "prettier": "^2.1.1",
+    "typescript": "~4.0.2"
   },
   "dependencies": {
     "@jsii/spec": "^0.0.0",
